@@ -12,3 +12,8 @@ print(sys.version)
 from math import pi
 r = float(input ("Input the radius of the circle : "))
 print ("The area of the circle with radius " + str(r) + " is: " + str(pi * r * r))
+
+#Q15 Write a Python program to get the volume of a sphere with radius 6.
+from math import pi
+r=6
+V=((4.0/3.0)* pi * r**2)
