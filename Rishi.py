@@ -71,7 +71,7 @@
 #print(Str3)
 
 #Q5
-n1 =input('Enter The First Name =')
-n2 =input('Enter The Last Name =')
-print(n2,n1)
+#n1 =input('Enter The First Name =')
+#n2 =input('Enter The Last Name =')
+#print(n2,n1)
 
