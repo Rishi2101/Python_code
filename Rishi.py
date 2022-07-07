@@ -75,3 +75,34 @@
 #n2 =input('Enter The Last Name =')
 #print(n2,n1)
 
+#capitalize by using string
+
+#str1='rushikeshsharma1188@gmail.com'
+#print(str1.capitalize())
+#print(str1.upper())     #
+#print(str1.lower())     #lower()Replace the uppercase character in a string with corresponding lowercase characters.
+
+#str2='Hello My Name Is Python'
+#print(str2.casefold())
+
+#str3='hello my name is python'
+#print(str3.title())
+
+#str4='Python Tutorial from Tutorials Teacher'
+#print(str4.find('from'))        #find method
+#print(str4.count('Tutorials'))      #count method
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

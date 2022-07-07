@@ -17,3 +17,6 @@ print ("The area of the circle with radius " + str(r) + " is: " + str(pi * r * r
 from math import pi
 r=6
 V=((4.0/3.0)* pi * r**2)
+print("The Volume of a sphere is =",V)
+
+#Q
