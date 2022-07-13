@@ -92,6 +92,94 @@
 #print(str4.find('from'))        #find method
 #print(str4.count('Tutorials'))      #count method
 
+#if, if_else, if_elif_else
+#S1=int(input("Enter The Subject 1 marks"))
+#S2=int(input("Enter The Subject 2 marks"))
+#S3=int(input("Enter The Subject 3 marks"))
+#S4=int(input("Enter The Subject 4 marks"))
+#S5=int(input("Enter The Subject 5 marks"))
+#persentage=(((S1+S2+S3+S4+S5)/500)*100)
+#print(persentage)
+#if persentage>=0 and persentage<35:
+#    print('Fail')
+#elif persentage>=35 and persentage<60:
+#    print('Second Class')
+#elif persentage>60 and persentage<80:
+#    print('First Class')
+#elif persentage>80 and persentage<90:
+#    print('A+')
+#elif persentage>90 and persentage<100:
+#    print('A++')
+#else:
+#    print("Please put The Subject Marks Properly")
+
+
+#Q
+#num=int(input("Enter The number ="))
+#if (num%7==0) and (num%5==0):
+#    print("The Num is =",num)
+
+
+#t=('4300C
+#print(t[:-1])
+
+#Q
+#temp=input('Enter the temperature =')
+    #C to F
+#if temp[-1]=='C' or temp[-1]=='c':
+#    it=int(temp[:-1])
+#    f=(((9*it)/5)+32)
+#    print('Temperature in fahrenhiet is =',f)
+
+
+#patten printing
+#row=0
+#column=0
+#n=5
+#for row in range(0, n):
+#    print("  ")
+#    for column in range(0, row+1):
+#        print('*', end="  ")
+
+
+#rows=6
+#for num in range(rows):
+#    for i in range(num):
+#        print(num,end=" ")
+#    print(" ")
+
+
+#str1='Rishi'
+#print(str1 [ : :-1])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
